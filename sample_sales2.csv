@@ -1,7 +1,0 @@
-order_id,date,customer,product,quantity,unit_price,region
-1001,2025-09-30,Juan,Panel A,2,250.0,Bogotá
-1002,2025-09-30,María,Panel B,1,300.0,Medellín
-1003,2025-10-01,Carlos,Inversor X,1,1200.0,Bogotá
-1004,2025-10-01,Ana,Panel A,3,250.0,Cali
-1005,2025-10-02,María,Inversor X,2,1200.0,Bogotá
-1006,2025-10-02,Juan,Panel B,1,300.0,Medellín
